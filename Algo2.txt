@@ -1,1 +1,3 @@
-hi
+Choose pizzeria 
+Choose type of pizza
+Order pizza and enjoy!
