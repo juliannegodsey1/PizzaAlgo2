@@ -1,1 +1,4 @@
-hi
+Step 1: Choose pizzeria
+Step 1a: Decide pickup or delivery
+Step 2: Choose type of pizza 
+Step 3: Order pizza and enjoy!
